@@ -1,6 +1,6 @@
 # Simple Crud with Spring Boot
 
-Somple Create, Read, Update and Delete with Spring Boot
+Simple Create, Read, Update and Delete with Spring Boot
 
 ## Description
 Project Structure:
